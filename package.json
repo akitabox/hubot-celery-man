@@ -4,13 +4,18 @@
   "version": "1.0.0",
   "author": "Sam Roquitte <samroq@yahoo.com>",
   "license": "MIT",
-  "keywords": "celery man",
+  "keywords": [
+    "celery",
+    "celery-man",
+    "hubot",
+    "hubot-script"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-celery-man.git"
+    "url": "git://github.com/akitabox/hubot-celery-man.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-celery-man/issues"
+    "url": "https://github.com/akitabox/hubot-celery-man/issues"
   },
   "dependencies": {},
   "peerDependencies": {

@@ -14,7 +14,7 @@
 #   hubot nude tayne - responds with not computing
 #
 # Author:
-#   danryan
+#   Sam Roquitte <samroq@yahoo.com>
 
 tayne = false
 moretayne = false
