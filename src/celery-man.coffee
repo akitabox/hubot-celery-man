@@ -21,7 +21,7 @@ moretayne = false
 
 module.exports = (robot) ->
   robot.respond /.*celery\s?man/i, (msg) ->
-    msg.send "http://mlkshk.com/r/4SBP.gif"
+    msg.send "https://m.popkey.co/6d4749/DYJNx.gif"
   robot.respond /.*4d3d3d3/i, (msg) ->
     msg.send "4d3d3d3 ENGAGED"
     msg.send "http://i.imgur.com/w1qQO.gif"
