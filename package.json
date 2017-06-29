@@ -1,5 +1,5 @@
 {
-  "name": "hubot-celery-man",
+  "name": "@akitabox/hubot-celery-man",
   "description": "Hubot script for Celery Man",
   "version": "1.0.2",
   "author": "Sam Roquitte <samroq@yahoo.com>",
