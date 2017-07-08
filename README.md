@@ -1,6 +1,6 @@
 # Hubot-celery-man
 
-Hubot script for Celery Man
+Hubot script for Celery Man from [Tim and Eric](https://www.youtube.com/watch?v=MHWBEK8w_YY)
 
 See [`src/celery-man.coffee`](src/celery-man.coffee) for full documentation.
 
@@ -32,6 +32,8 @@ Then add **hubot-celery-man** to your `external-scripts.json`:
 `hubot hat wobble` - hat wobble gif
 
 `hubot nude tayne` - responds with not computing
+
+`NUDE TAYNE` - responds with NSFW
 
 ## Sample Interaction
 
